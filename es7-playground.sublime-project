@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {"path": "."}
+    ],
+    "build_systems": [
+        {
+            "name": "Build",
+            "shell_cmd": "echo Select JavaScript or CSS to build",
+            "working_dir": "$project_path",
+            "variants": [
+                {
+                    "name": "JavaScript",
+                    "shell_cmd": "node compile.js --type js --source \"js/main\" --dest app-script",
+                },
+                {
+                    "name": "CSS",
+                    "shell_cmd": "node compile.js --type css --source \"css/main\" --dest style"
+                }
+            ]
+        }
+    ]
+}

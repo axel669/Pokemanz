@@ -1,0 +1,1168 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"stage1Pos"
+			],
+			[
+				"update",
+				"updateState"
+			],
+			[
+				"stage",
+				"stageNum"
+			],
+			[
+				"has",
+				"hasVowel"
+			],
+			[
+				"cop",
+				"components"
+			],
+			[
+				"upda",
+				"updateInfo"
+			],
+			[
+				"selec",
+				"selectedComponent"
+			],
+			[
+				"compoent",
+				"moduleComponents"
+			],
+			[
+				"selete",
+				"selectedIndex"
+			],
+			[
+				"Simple",
+				"SimpleWires"
+			],
+			[
+				"cor-",
+				"cor-screen-title-web"
+			],
+			[
+				"cor-sc",
+				"cor-screen-title"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"dialog",
+				"dialogResolve"
+			],
+			[
+				"dial",
+				"dialogPromise"
+			],
+			[
+				"diao",
+				"dialogPromise"
+			],
+			[
+				"Dial",
+				"DialogComponent"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"content",
+				"contentStyle"
+			],
+			[
+				"Back",
+				"backIcon"
+			],
+			[
+				"back",
+				"backButton"
+			],
+			[
+				"sele",
+				"selectedIndex"
+			],
+			[
+				"selected",
+				"selectedIndex"
+			],
+			[
+				"icon",
+				"iconArea"
+			],
+			[
+				"checkS",
+				"checkSide"
+			],
+			[
+				"label",
+				"labelArea"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"cor",
+				"cor-rangeinput"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"ion-",
+				"ion-android-radio-button-off"
+			],
+			[
+				"text",
+				"textStyle"
+			],
+			[
+				"cor-bu",
+				"cor-button-text"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"button",
+				"buttonProps"
+			],
+			[
+				"border",
+				"borderImageCSS"
+			],
+			[
+				"backgr",
+				"backgroundSize"
+			],
+			[
+				"backgo",
+				"backgroundPosition"
+			],
+			[
+				"backgrou",
+				"backgroundRepeat"
+			],
+			[
+				"FlexBo",
+				"FlexboxItem"
+			],
+			[
+				"Flex",
+				"FlexboxItem"
+			],
+			[
+				"current",
+				"currentElement"
+			],
+			[
+				"cre",
+				"createEvent"
+			],
+			[
+				"regist",
+				"register"
+			],
+			[
+				"touchP",
+				"touchPositionLast"
+			],
+			[
+				"touch",
+				"touchPositionStart"
+			],
+			[
+				"start",
+				"startPosition"
+			],
+			[
+				"hand",
+				"handlerName"
+			],
+			[
+				"hander",
+				"handlerName"
+			],
+			[
+				"reg",
+				"registeredHandlers"
+			],
+			[
+				"touchs",
+				"touchPositionStart"
+			],
+			[
+				"handler",
+				"handlerName"
+			],
+			[
+				"hndl",
+				"handlerName"
+			],
+			[
+				"regis",
+				"registeredCallbacks"
+			],
+			[
+				"abs",
+				"absDif"
+			],
+			[
+				"bab",
+				"babelTransform"
+			],
+			[
+				"ion",
+				"ion-android-checkbox-outline-blank"
+			],
+			[
+				"check",
+				"checkColor"
+			],
+			[
+				"Reac",
+				"ReactDOM"
+			],
+			[
+				"row",
+				"rowID"
+			],
+			[
+				"moment",
+				"momentObject"
+			],
+			[
+				"momen",
+				"momentObject"
+			],
+			[
+				"mom",
+				"momentProto"
+			],
+			[
+				"brow",
+				"browserifyOptions"
+			],
+			[
+				"remove",
+				"removeID"
+			],
+			[
+				"remo",
+				"removedIDs"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"ro",
+				"rowKey"
+			],
+			[
+				"Radio",
+				"RadioItem"
+			],
+			[
+				"Rad",
+				"RadioGroup"
+			],
+			[
+				"colo",
+				"colorOff"
+			],
+			[
+				"backgroun",
+				"backgroundColor"
+			],
+			[
+				"enc",
+				"encrypt"
+			],
+			[
+				"librar",
+				"library-min"
+			],
+			[
+				"line",
+				"lineNum"
+			],
+			[
+				"kbnam",
+				"kbNames"
+			],
+			[
+				"args",
+				"argsList"
+			],
+			[
+				"piece",
+				"piecestmnts"
+			],
+			[
+				"function",
+				"functionArgs"
+			],
+			[
+				"scrol",
+				"scrollable"
+			],
+			[
+				"Demo",
+				"Demo2"
+			],
+			[
+				"Reat",
+				"ReactRouter"
+			],
+			[
+				"defa",
+				"getDefaultProps"
+			],
+			[
+				"background",
+				"backgroundSize"
+			],
+			[
+				"bound",
+				"boundaries"
+			],
+			[
+				"resolve",
+				"resolveURL"
+			],
+			[
+				"transi",
+				"transitionTime"
+			],
+			[
+				"transit",
+				"transitionTo"
+			],
+			[
+				"Test",
+				"TestTransitioner"
+			],
+			[
+				"fileSystem",
+				"fileSystemPromise"
+			],
+			[
+				"React",
+				"ReactRouter"
+			],
+			[
+				"Scree",
+				"ScreenWrapper"
+			],
+			[
+				"split",
+				"splitRaw"
+			],
+			[
+				"bac",
+				"backgroundSize"
+			],
+			[
+				"fill",
+				"fillWidth"
+			],
+			[
+				"webkit-tr",
+				"webkit-transform"
+			],
+			[
+				"se",
+				"selectedIndex"
+			],
+			[
+				"Sc",
+				"Screen"
+			],
+			[
+				"Scre",
+				"ScrollContainer"
+			],
+			[
+				"scroll",
+				"scrollContainers"
+			],
+			[
+				"onTouch",
+				"onTouchEnd"
+			],
+			[
+				"onTou",
+				"onTouchStart"
+			],
+			[
+				"Re",
+				"ReactRouter"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"value",
+				"valueFunc"
+			],
+			[
+				"grid",
+				"gridHeight"
+			],
+			[
+				"region",
+				"regionLinkID"
+			],
+			[
+				"Delete",
+				"DeleteLinkClass"
+			],
+			[
+				"io",
+				"ion-chevron-down"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"exp",
+				"expandable-content"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"rea",
+				"React"
+			],
+			[
+				"curr",
+				"curriculumID"
+			],
+			[
+				"add",
+				"addLink"
+			],
+			[
+				"Less",
+				"LessonName"
+			],
+			[
+				"lesson",
+				"curriculumLesson"
+			],
+			[
+				"flex",
+				"FlexQuery"
+			],
+			[
+				"Region",
+				"RegionLinkID"
+			],
+			[
+				"Key",
+				"KeyProperty"
+			],
+			[
+				"respon",
+				"ResponseClassName"
+			],
+			[
+				"Insert",
+				"InsertPoint"
+			],
+			[
+				"Inser",
+				"InsertLink"
+			],
+			[
+				"respo",
+				"ResponseClassName"
+			],
+			[
+				"requ",
+				"RequestClassName"
+			],
+			[
+				"Ke",
+				"KeyProperty"
+			],
+			[
+				"Respo",
+				"ResponseIsList"
+			],
+			[
+				"ser",
+				"services"
+			]
+		]
+	},
+	"build_system": "Build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Build",
+					""
+				],
+				[
+					"Build",
+					"JavaScript"
+				],
+				[
+					"Build",
+					"CSS"
+				],
+				[
+					"Packages/User/JSX.sublime-build",
+					""
+				]
+			],
+			[
+				"Build",
+				"JavaScript"
+			]
+		]
+	],
+	"build_varint": "JavaScript",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Gulp"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"gu",
+				"Gulp"
+			],
+			[
+				"g",
+				"Gulp"
+			],
+			[
+				"lint v",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"prefer lin",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"browse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"packages",
+				"Package Control: Disable Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Axel1/Documents/programming/github/Pokemanz/style.css",
+		"/C/Users/Axel1/Documents/programming/github/Pokemanz/.gitignore",
+		"/C/Users/Axel1/Documents/programming/js/web/pokemanz/js/main.js",
+		"/C/Users/Axel1/Documents/programming/js/web/pokemanz/index.html",
+		"/C/Users/Axel1/AppData/Local/Temp/Rar$DIa0.101/compile.js",
+		"/C/Users/Axel1/Documents/programming/website/ktne/index.html",
+		"/C/Users/Axel1/Documents/programming/website/ktne/js/matchingwires.js",
+		"/C/Users/Axel1/Documents/programming/website/ktne/compile.js",
+		"/C/Users/Axel1/Documents/programming/website/ktne/js/modules/memory.js",
+		"/C/Users/Axel1/Documents/programming/website/ktne/js/modules/simplewires.js",
+		"/C/Users/Axel1/Documents/programming/website/ktne/material.css",
+		"/C/Users/Axel1/Documents/programming/website/ktne/style.css",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/combobox.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/test.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/factotum.es7.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/rangeinput.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/scrollcontainer.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/touchable.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/flexbox.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/textinput.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/imagebutton.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/test-compile.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/button.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_spinner.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/spinner.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_container.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_scrollable.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_checkbox.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/material.scss",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_textinput.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui.es7.jsx",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/sass/material.scss",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/combobox.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/checkbox.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/button.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/touchable.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/gesture.es7.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/grid.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/flexbox.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/iconbutton.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/imagebutton.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/raisedbutton.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/card.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/image.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/screen.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui.es7.jsx",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/sass/components/_rangeinput.sass",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/rangeinput.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/sass/components/_button.sass",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/centercontent.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/ui/radio.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/sass/components/_radio.sass",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/index.html",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_icon-area.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/iconbutton.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/raisedbutton.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/image.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_screen.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/card.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_button.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/centercontent.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_grid.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/grid.js",
+		"/C/Users/Axel1/Documents/autohotkey.ahk",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_flexbox.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/theme/_default.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/gesture.es7.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/external/gesture.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_card.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/node_modules/babel-polyfill/browser.js",
+		"/C/Users/cmorgan2/Documents/programming/tunnel",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/corinthian.sublime-project",
+		"/C/Users/Axel1/Documents/programming/js/test/node_modules/babel-runtime/helpers/typeof.js",
+		"/C/Users/Axel1/Documents/programming/js/test/node_modules/babel-preset-stage-0/node_modules/babel-preset-stage-1/node_modules/babel-preset-stage-2/node_modules/babel-preset-stage-3/package.json",
+		"/C/Users/Axel1/Documents/programming/js/test/node_modules/babel-preset-stage-0/package.json",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/min-test.js",
+		"/C/Users/Axel1/Documents/programming/js/test/compiler/test-es7.js",
+		"/C/Users/Axel1/Documents/programming/js/test/compiler/test-compile.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/compiler.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/node_modules/stringify/src/stringify.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/node_modules/stringify/node_modules/html-minifier/cli.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/node_modules/stringify/index.js",
+		"/C/Users/Axel1/Documents/programming/js/test/package.json",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/package.json",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/corinthian.stripped.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/checkbox.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/gulpfile.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/corinthian.min.js",
+		"/C/Users/Axel1/Documents/programming/js/mobile/pdf reader/index.html",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/corinthian.js",
+		"/C/Program Files/Sublime Text 3/test-compile.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/microdb.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/compile.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/node_modules/browserify/index.js",
+		"/C/Users/Axel1/Documents/programming/js/mobile/pdf reader/compile.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/app.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/.sublime-gulp.cache",
+		"/C/Users/Axel1/Documents/programming/js/mobile/pdf reader/secret cd.sublime-project",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/external/gesture.js",
+		"/C/Users/cmorgan2/AppData/Roaming/Skype/My Skype Received Files/dataCenter.js",
+		"/C/Users/cmorgan2/AppData/Roaming/Skype/My Skype Received Files/.eslintrc",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/test.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/gulpfile.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/factotum.es7.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/corinthian.min.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/lib-source/fs.es7.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/adriana.jpg",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/screen.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/radio.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/split.js",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/lib-source/ui/switch.js",
+		"/C/Users/Axel1/Documents/programming/js/mobile/flashcards/index.html",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_radio.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_switch.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/sass/components/_combobox.sass",
+		"/C/Users/Axel1/Documents/programming/github/Corinthian/index.html",
+		"//card.com/Websites/Live/SkillsBrain.com/app.js",
+		"//ccweb01/inetpub/SkillsBrain.com/index.html",
+		"//card.com/Websites/Live/SkillsBrain.com/index.html",
+		"//stweb01/websites/SkillsBrain.com/index.html",
+		"//stweb01/websites/SkillsBrain.com/app.js",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/sass/theme/_defualt.sass",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/sass/components/_card.sass",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/sass/animations/_overlay.sass",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/sass/animations/_screen.sass",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/sass/components/_flexbox.sass",
+		"/C/Users/cmorgan2/Documents/programming/github/Corinthian/sass/components/_grid.sass"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"break",
+			"'n/a'",
+			"serialLast",
+			"serialNumberLastDigit",
+			"} ",
+			"100",
+			"console",
+			"startData",
+			"touchPositionLast",
+			"touchPositionStart",
+			"touchDataStart",
+			"startPosition",
+			"touch",
+			"();\n",
+			"material",
+			"---dest",
+			"-output",
+			"babel-runtime/helpers/asyncToGenerator",
+			"zip",
+			"compile.js",
+			":",
+			"through",
+			"insertglobals",
+			"build time",
+			"atientList",
+			"XRegExp",
+			"fc",
+			"screen",
+			"\\{|\\}|;",
+			";",
+			"-webkit-transform",
+			"style",
+			";\n",
+			"Crypto",
+			"createCipher",
+			"encryptor",
+			"sourceFileEntry",
+			"icons",
+			"round",
+			"options",
+			"binaryOp",
+			"Label",
+			"fs",
+			"Loading",
+			"bottom",
+			"top",
+			"boundaries",
+			"vsplit",
+			"name",
+			"copyDir",
+			"translatez",
+			"frameRender",
+			"obj",
+			"zip =",
+			"window",
+			"session",
+			"flex",
+			"fc",
+			"all",
+			"fc.promise",
+			"var",
+			"image = ",
+			"bottom",
+			"top",
+			"VM893:2 ",
+			" - ",
+			"([^\\/])>",
+			"<([^b])",
+			"\\t",
+			"div",
+			"UI\\.",
+			"rangeinput",
+			"#2",
+			"Tappable",
+			"Range",
+			"var",
+			": function",
+			"var",
+			"Roboto-Light;",
+			"button",
+			"Tappable",
+			"tappable",
+			"require",
+			"buffer",
+			"targetTouches",
+			"mousedown",
+			"targetTouches",
+			"targettouches",
+			"moveElement",
+			"eventsrc",
+			"click",
+			"let (.*);",
+			"let ",
+			"exports\\.",
+			"export let ",
+			"var",
+			"process.next",
+			"promise",
+			"array.prototype",
+			"Grid",
+			"10",
+			"}>+</",
+			"async",
+			"changeStrength",
+			">)}\n",
+			"Select",
+			" {4}",
+			"\\n {4}",
+			"xc",
+			"class",
+			" {2}",
+			"done = ",
+			"fc.promise",
+			"DLRoutes",
+			"}\n",
+			"tappable",
+			"component-svg",
+			"button = ",
+			"'click'",
+			";\n",
+			"getroute",
+			"  ",
+			"int",
+			"db.trial",
+			"filter",
+			"\\bTo\\b",
+			"To",
+			" {4}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"noColor",
+			"lastDigit",
+			"startTouch",
+			"touchDataLast",
+			"touchDataStart",
+			"startData",
+			"--dest",
+			"compile.js --type js",
+			" =",
+			"",
+			"transform",
+			"new Promise",
+			"let",
+			"",
+			" | ",
+			"$1**",
+			"**$1",
+			"    ",
+			"",
+			"Touchable",
+			"RangeInput",
+			"let",
+			"",
+			"let",
+			"\"Roboto-Light\";",
+			"Touchable",
+			"changedTouches",
+			"$1,",
+			"",
+			"exports.",
+			"let",
+			"",
+			"    ",
+			"'tap'",
+			"getPath",
+			"    ",
+			"\\t",
+			"DB",
+			".lessonID",
+			"../lib/",
+			"BrainRegion",
+			"{$0}",
+			"style",
+			"$1",
+			"fill: \"$1\", ",
+			"{}",
+			"\"id\":$1",
+			",\\n",
+			" - ",
+			"var $1;\\n",
+			"=>",
+			"{\"lessonID\": $1, \"sdID\": $2},",
+			"{\"curriculumID\": $1, \"lessonID\": $2},",
+			"console.log",
+			"loadCSV",
+			"\"$0\"",
+			"\"$1\"",
+			"\\n        ",
+			"../react/",
+			"$1\\n",
+			",",
+			"<Option id=$1 text=\"$2\" />",
+			"\\n",
+			"\"value\":1",
+			"\"group\":1",
+			"edges",
+			"\",\"",
+			";\\n    var ",
+			";",
+			" />",
+			"/>",
+			"",
+			">\\n",
+			"    ",
+			"W",
+			" />",
+			">\\n",
+			" ",
+			"onChange",
+			"target",
+			"TouchData",
+			"touchVars",
+			"touchLastPosition",
+			"touchStartPosition",
+			"    ",
+			"\"Exemplar$1\"",
+			"    ",
+			"child.gamerToken",
+			"    ",
+			"/",
+			"\\\\n\\\\\\n",
+			",\\n",
+			"\\\\n\\\\",
+			"\\\\\\n",
+			",",
+			"\\t",
+			"$1\\r\\n",
+			"\\r\\n",
+			"",
+			"_Camera",
+			"Promise",
+			"Pr",
+			"\\t",
+			"ArchImage",
+			"ArchText",
+			";\\n",
+			"\\\\n\\\\\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"lib-source\\ui.es7.jsx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
